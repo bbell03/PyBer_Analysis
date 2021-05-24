@@ -34,5 +34,5 @@ There is a statement summarizing three business recommendations to the CEO for a
 
     You should:
         1. Hire more drivers in rural areas to make the cost per ride more affordable.
-        2. Create price incentives for using rideshare during warm weather, especially in urban, but also suburban areas.
+        2. Create price incentives for using rideshare during warm weather.
         3. Set a price floor for urban rides to better ensure driver's time is consistently worth their money earned.
