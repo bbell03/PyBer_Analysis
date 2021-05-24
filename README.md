@@ -11,7 +11,7 @@ to city type including urban, suburban and rural.
 ![alt text](/analysis/Fig1.png)
 
 
-![alt text](/analysis/Fig2.png)
+![alt text](/analysis/boop.png)
 
 There are most rides in urban cities totalling 1,625. There are 625 rides in suburban cities and 125 in rural cities for a total of 2,375 drivers across all cities. 
 
