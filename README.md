@@ -13,22 +13,20 @@ to city type including urban, suburban and rural.
 
 ![alt text](/analysis/boop.png)
 
-There are most rides in urban cities totalling 1,625. There are 625 rides in suburban cities and 125 in rural cities for a total of 2,375 drivers across all cities. 
+There are most rides in urban cities totalling 1,625. There are 625 rides in suburban cities and 125 in rural cities for a total of 2,375 drivers across all cities.
 
 Urban cities have most drivers at 2,402, suburban drivers have the second most at 490 and rural drivers have the least at 78.
-    
-Total fares differ in the same order with the total for urban cities at $39,854.38, the total for suburban cities at $19,356.33, and the total for rural cities at $4,327.93. 
-    
-The average fare per ride for urban cities is $24.53, the average fare per ride for suburban cities is $30.97 and the average fare per ride for rural cities is $24.53. 
 
-There is an average fare per driver of $16.57 for urban cities, an average fare per driver of $39.50 for suburban cities and an average fare per driver of $55.49 for rural cities. 
-    
+Total fares differ in the same order with the total for urban cities at $39,854.38, the total for suburban cities at $19,356.33, and the total for rural cities at $4,327.93.
+
+The average fare per ride for urban cities is $24.53, the average fare per ride for suburban cities is $30.97 and the average fare per ride for rural cities is $34.62.
+
+There is an average fare per driver of $16.57 for urban cities, an average fare per driver of $39.50 for suburban cities and an average fare per driver of $55.49 for rural cities.
+
 These average values are likely skewed relative to population size and outlying values in rural and suburban cities when compared to urban cities.
-  
 
-## Summary:
-    
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+
+## Letter of Recommendations
 
     Dear Rideshare CEO,
 
